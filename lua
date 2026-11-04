@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/insomniascripts/lua/refs/heads/main/Bddies", true))() task.wait(0.5) loadstring(game:HttpGet("https://raw.githubusercontent.com/InsomniaTrial/Insomnia/refs/heads/main/Auth"))()
